@@ -57,17 +57,7 @@
       "email": "P@gmail.com"
     }
   ],
-  "cart": [
-    {
-      "category": "Saws & Chasers",
-      "name": "Xtra Power 2700W Input Power Wall Chaser XPT 418",
-      "image": "https://static1.industrybuying.com/products/power-tools/wall-chasers/POW.WAL.62076632_1668009929785.webp",
-      "by": "Xtra Power",
-      "price": "145000",
-      "discount": 0,
-      "id": 1
-    }
-  ],
+  "cart": [],
   "powertools": [
     {
       "id": 4,
