@@ -66,15 +66,6 @@
       "price": "145000",
       "discount": 0,
       "id": 1
-    },
-    {
-      "category": "Saws & Chasers",
-      "name": "Omada 21V Metal Shear Cordless Tin Scissor OMD",
-      "image": "https://static1.industrybuying.com/products/power-tools/chain-saw/POW.CHA.97138210_1668385558636.webp",
-      "by": "Omada",
-      "price": 19800,
-      "discount": 37,
-      "id": 2
     }
   ],
   "powertools": [
